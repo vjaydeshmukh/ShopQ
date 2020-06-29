@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666017798920",
+    "firebase_url": "https://shopq-d878d.firebaseio.com",
+    "project_id": "shopq-d878d",
+    "storage_bucket": "shopq-d878d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666017798920:android:e8e59c21dc8545e8036abd",
+        "android_client_info": {
+          "package_name": "com.example.ShopQ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666017798920-1ejm7sk7ol8f80f5rhrgubaljq6211us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ShopQ",
+            "certificate_hash": "b8d1160eff5fedee367bc2bc1e5492e9b8317603"
+          }
+        },
+        {
+          "client_id": "666017798920-kva1a9e8d24rfi4cm21lor67av06epau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUtJDOt0vFpRjI0DBVtuQKSqvrY0mpYbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666017798920-kva1a9e8d24rfi4cm21lor67av06epau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
