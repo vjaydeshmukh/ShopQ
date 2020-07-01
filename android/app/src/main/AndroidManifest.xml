@@ -10,7 +10,7 @@
         android:label="ShopQ"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyB4kPEuOBeT68Nam5sZr4imkLxm14J46aA"/>
+            android:value="YOUR_GOOGLE_MAPS_API_KEY_HERE"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
